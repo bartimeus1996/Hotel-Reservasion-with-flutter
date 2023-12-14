@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916695671549",
+    "project_id": "reservasyonuygulamasiflutter",
+    "storage_bucket": "reservasyonuygulamasiflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916695671549:android:996f531bb15916f0455494",
+        "android_client_info": {
+          "package_name": "com.example.reserv_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnZ1SJgQbAHUiKrrtw8TI40QHb-9dvAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
